@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+/* Classes */
+
+.font-main{
+        font-family: Helvetica, 'Times New Roman', sans-serif;
+        font-size: 28px;
+        color: black;
+}
+
+.ClickMe{
+        background-color: black;
+        color: white;
+}
+
+.NoMe{
+        background-color: yellow;
+}
