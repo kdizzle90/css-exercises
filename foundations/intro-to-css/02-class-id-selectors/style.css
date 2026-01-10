@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+
+/* Classes */  
+.odd,
+.odd-lg {
+        background-color:#ffc0cb;
+        font-family: Verdana, Tahoma, sans-serif;
+    }
+
+.odd-lg {
+        font-size: 24px;
+}
+
+/* IDs */
+#numtwo {
+        color:#0000ff;
+        font-size: 36px;
+}
+
+#numfour{
+        background-color: lightgreen;
+        font-weight: bold;
+        font-size: 24px;
+}
